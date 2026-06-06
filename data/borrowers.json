@@ -1,0 +1,101 @@
+[
+  {
+    "borrower_id": "B001",
+    "name": "Asha Rao",
+    "loan_amount": 500000,
+    "emi_amount": 12000,
+    "outstanding_balance": 320000,
+    "credit_limit": 100000,
+    "due_day": 5,
+    "assigned_analyst": "analyst_1",
+    "persona": "Healthy payer — all on time, low utilization"
+  },
+  {
+    "borrower_id": "B002",
+    "name": "Vikram Shetty",
+    "loan_amount": 600000,
+    "emi_amount": 15000,
+    "outstanding_balance": 410000,
+    "credit_limit": 120000,
+    "due_day": 5,
+    "assigned_analyst": "analyst_1",
+    "persona": "Slightly slipping — one late EMI, mild utilization rise"
+  },
+  {
+    "borrower_id": "B003",
+    "name": "Meera Nair",
+    "loan_amount": 750000,
+    "emi_amount": 18000,
+    "outstanding_balance": 520000,
+    "credit_limit": 150000,
+    "due_day": 7,
+    "assigned_analyst": "analyst_2",
+    "persona": "Cash-flow squeeze — falling income, rising utilization, late EMI"
+  },
+  {
+    "borrower_id": "B004",
+    "name": "Rahul Desai",
+    "loan_amount": 550000,
+    "emi_amount": 14000,
+    "outstanding_balance": 470000,
+    "credit_limit": 100000,
+    "due_day": 10,
+    "assigned_analyst": "analyst_2",
+    "persona": "Auto-debit failures — repeated debit failures and rising DPD"
+  },
+  {
+    "borrower_id": "B005",
+    "name": "Priya Menon",
+    "loan_amount": 900000,
+    "emi_amount": 20000,
+    "outstanding_balance": 780000,
+    "credit_limit": 200000,
+    "due_day": 3,
+    "assigned_analyst": "analyst_2",
+    "persona": "Spiraling — rising DPD, partial payment, failed debits, high utilization"
+  },
+  {
+    "borrower_id": "B006",
+    "name": "Sandeep Iyer",
+    "loan_amount": 650000,
+    "emi_amount": 16000,
+    "outstanding_balance": 540000,
+    "credit_limit": 150000,
+    "due_day": 8,
+    "assigned_analyst": "analyst_1",
+    "persona": "Maxed out — pays on time but utilization near limit, income falling, balance draining"
+  },
+  {
+    "borrower_id": "B007",
+    "name": "Neha Kulkarni",
+    "loan_amount": 480000,
+    "emi_amount": 13000,
+    "outstanding_balance": 467000,
+    "credit_limit": 100000,
+    "due_day": 5,
+    "assigned_analyst": "analyst_1",
+    "persona": "New borrower — only one month of history (insufficient history)"
+  },
+  {
+    "borrower_id": "B008",
+    "name": "Arjun Pillai",
+    "loan_amount": 700000,
+    "emi_amount": 17000,
+    "outstanding_balance": 610000,
+    "credit_limit": 130000,
+    "due_day": 6,
+    "assigned_analyst": "analyst_2",
+    "persona": "Missing transaction data — payment signals only, degraded confidence"
+  },
+  {
+    "borrower_id": "B009",
+    "name": "Divya Reddy",
+    "loan_amount": 500000,
+    "emi_amount": 12000,
+    "outstanding_balance": 280000,
+    "credit_limit": 100000,
+    "due_day": 5,
+    "assigned_analyst": "analyst_1",
+    "persona": "Recovered — was late months ago, now improving (trend direction matters)"
+  }
+]

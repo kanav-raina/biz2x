@@ -1,0 +1,52 @@
+[
+  {"borrower_id": "B001", "month": "2025-12", "income_inflow": 50000, "avg_balance": 30000, "credit_utilization": 0.20},
+  {"borrower_id": "B001", "month": "2026-01", "income_inflow": 50000, "avg_balance": 31000, "credit_utilization": 0.21},
+  {"borrower_id": "B001", "month": "2026-02", "income_inflow": 51000, "avg_balance": 29000, "credit_utilization": 0.22},
+  {"borrower_id": "B001", "month": "2026-03", "income_inflow": 50000, "avg_balance": 32000, "credit_utilization": 0.20},
+  {"borrower_id": "B001", "month": "2026-04", "income_inflow": 52000, "avg_balance": 30000, "credit_utilization": 0.23},
+  {"borrower_id": "B001", "month": "2026-05", "income_inflow": 50000, "avg_balance": 31000, "credit_utilization": 0.22},
+
+  {"borrower_id": "B002", "month": "2025-12", "income_inflow": 45000, "avg_balance": 21000, "credit_utilization": 0.35},
+  {"borrower_id": "B002", "month": "2026-01", "income_inflow": 45000, "avg_balance": 20000, "credit_utilization": 0.36},
+  {"borrower_id": "B002", "month": "2026-02", "income_inflow": 46000, "avg_balance": 19000, "credit_utilization": 0.38},
+  {"borrower_id": "B002", "month": "2026-03", "income_inflow": 44000, "avg_balance": 18000, "credit_utilization": 0.45},
+  {"borrower_id": "B002", "month": "2026-04", "income_inflow": 45000, "avg_balance": 17000, "credit_utilization": 0.50},
+  {"borrower_id": "B002", "month": "2026-05", "income_inflow": 45000, "avg_balance": 16000, "credit_utilization": 0.55},
+
+  {"borrower_id": "B003", "month": "2025-12", "income_inflow": 60000, "avg_balance": 15000, "credit_utilization": 0.60},
+  {"borrower_id": "B003", "month": "2026-01", "income_inflow": 58000, "avg_balance": 14500, "credit_utilization": 0.62},
+  {"borrower_id": "B003", "month": "2026-02", "income_inflow": 60000, "avg_balance": 14000, "credit_utilization": 0.65},
+  {"borrower_id": "B003", "month": "2026-03", "income_inflow": 50000, "avg_balance": 14000, "credit_utilization": 0.75},
+  {"borrower_id": "B003", "month": "2026-04", "income_inflow": 44000, "avg_balance": 13500, "credit_utilization": 0.80},
+  {"borrower_id": "B003", "month": "2026-05", "income_inflow": 42000, "avg_balance": 13000, "credit_utilization": 0.85},
+
+  {"borrower_id": "B004", "month": "2025-12", "income_inflow": 48000, "avg_balance": 18000, "credit_utilization": 0.40},
+  {"borrower_id": "B004", "month": "2026-01", "income_inflow": 48000, "avg_balance": 18500, "credit_utilization": 0.41},
+  {"borrower_id": "B004", "month": "2026-02", "income_inflow": 47000, "avg_balance": 17500, "credit_utilization": 0.42},
+  {"borrower_id": "B004", "month": "2026-03", "income_inflow": 48000, "avg_balance": 18000, "credit_utilization": 0.43},
+  {"borrower_id": "B004", "month": "2026-04", "income_inflow": 49000, "avg_balance": 17000, "credit_utilization": 0.41},
+  {"borrower_id": "B004", "month": "2026-05", "income_inflow": 48000, "avg_balance": 18000, "credit_utilization": 0.44},
+
+  {"borrower_id": "B005", "month": "2025-12", "income_inflow": 70000, "avg_balance": 16000, "credit_utilization": 0.65},
+  {"borrower_id": "B005", "month": "2026-01", "income_inflow": 71000, "avg_balance": 15500, "credit_utilization": 0.68},
+  {"borrower_id": "B005", "month": "2026-02", "income_inflow": 70000, "avg_balance": 15000, "credit_utilization": 0.70},
+  {"borrower_id": "B005", "month": "2026-03", "income_inflow": 70000, "avg_balance": 15500, "credit_utilization": 0.80},
+  {"borrower_id": "B005", "month": "2026-04", "income_inflow": 69000, "avg_balance": 15000, "credit_utilization": 0.86},
+  {"borrower_id": "B005", "month": "2026-05", "income_inflow": 70000, "avg_balance": 15500, "credit_utilization": 0.90},
+
+  {"borrower_id": "B006", "month": "2025-12", "income_inflow": 55000, "avg_balance": 20000, "credit_utilization": 0.70},
+  {"borrower_id": "B006", "month": "2026-01", "income_inflow": 54000, "avg_balance": 17000, "credit_utilization": 0.74},
+  {"borrower_id": "B006", "month": "2026-02", "income_inflow": 55000, "avg_balance": 14000, "credit_utilization": 0.78},
+  {"borrower_id": "B006", "month": "2026-03", "income_inflow": 48000, "avg_balance": 11000, "credit_utilization": 0.88},
+  {"borrower_id": "B006", "month": "2026-04", "income_inflow": 42000, "avg_balance": 8000, "credit_utilization": 0.92},
+  {"borrower_id": "B006", "month": "2026-05", "income_inflow": 40000, "avg_balance": 5000, "credit_utilization": 0.96},
+
+  {"borrower_id": "B007", "month": "2026-05", "income_inflow": 30000, "avg_balance": 6000, "credit_utilization": 0.85},
+
+  {"borrower_id": "B009", "month": "2025-12", "income_inflow": 38000, "avg_balance": 9000, "credit_utilization": 0.70},
+  {"borrower_id": "B009", "month": "2026-01", "income_inflow": 42000, "avg_balance": 11000, "credit_utilization": 0.64},
+  {"borrower_id": "B009", "month": "2026-02", "income_inflow": 45000, "avg_balance": 13000, "credit_utilization": 0.58},
+  {"borrower_id": "B009", "month": "2026-03", "income_inflow": 48000, "avg_balance": 16000, "credit_utilization": 0.50},
+  {"borrower_id": "B009", "month": "2026-04", "income_inflow": 50000, "avg_balance": 18000, "credit_utilization": 0.45},
+  {"borrower_id": "B009", "month": "2026-05", "income_inflow": 52000, "avg_balance": 20000, "credit_utilization": 0.40}
+]

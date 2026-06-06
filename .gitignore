@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Assignment / interview docs (not tracked)
+SSE_Case_2_Loan_Default_Risk_Early_Warning_System.docx
+ai-interview-docs (1).txt
